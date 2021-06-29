@@ -124,3 +124,4 @@ conjunto w constituído por todos os elementos y tais que p(x, y) para algum x �
 9. "Axioma da regularidade": Todo o conjunto não vazio x tem um elemento disjunto de x.
 
 - ∀x ∃y (y ∈ x ∧ y ∩ x = ∅)
+
