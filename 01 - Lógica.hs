@@ -289,3 +289,4 @@ tais que "p(a)" e "p(b)" são verdadeiras e mostra-se que "a = b".
 A prova de falsidade de uma proposição do tipo "∀x p(x)" passa por mostrar que existe um
 elemento "a" do universo de quantificação tal que "p(a)"  é falsa. Neste caso, diz-se que
 o elemento "a" é um contraexemplo para a proposição "∀x p(x)".
+
